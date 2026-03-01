@@ -37,21 +37,7 @@ function Hero() {
         <p style={{ fontSize: "1.2rem", color: "#e0e0e0", opacity: 0, animation: "fadeUp 1s forwards 0.5s" }}>
           Full-Stack Developer | Welcome to my Portfolio
         </p>
-        <a href="#contact" style={{
-          display: "inline-block",
-          marginTop: "20px",
-          padding: "12px 28px",
-          borderRadius: "50px",
-          fontWeight: 600,
-          textDecoration: "none",
-          background: "#ffffff",
-          color: "#0f172a",
-          boxShadow: "0 0 15px rgba(255,255,255,0.4)",
-          animation: "fadeUp 1s forwards 0.8s, bounce 2s infinite 1.5s",
-          transition: "transform 0.3s, box-shadow 0.3s, background 0.3s"
-        }}>
-          Contact Me <span style={{ display: "block", fontSize: "0.9rem", color: "#2563eb" }}>+93782049304</span>
-        </a>
+
       </div>
 
       <style>{`
